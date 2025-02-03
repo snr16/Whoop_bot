@@ -24,7 +24,7 @@ This project combines an **AI-Powered Health Monitoring Chatbot** with a **WHOOP
 
 3. **Database:** PostgreSQL with tables for users, body measurements, workouts, recovery data, etc.
 
-![ChatBot](image.png)
+      ![ChatBot](image.png)
 
 ## ⚙️ Setup Instructions
 
